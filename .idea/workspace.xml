@@ -26,6 +26,18 @@
       <change beforePath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Drivers/geckodriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Drivers/geckodriver 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Drivers/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Drivers/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webDrivers/DesignSetupChrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webDrivers/DesignSetupChrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webDrivers/SetupFireFox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webDrivers/SetupFireFox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webDrivers/SetupSafari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webDrivers/SetupSafari.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jeff" beforeDir="false" afterPath="$PROJECT_DIR$/../jeff" afterDir="false" />
     </list>
@@ -41,7 +53,111 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupChrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="19" column="97" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="111" selection-start-line="12" selection-start-column="111" selection-end-line="12" selection-end-column="111" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupAllDriversMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/TakeScreenshot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetUpAllDrivers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:12PM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:16PM.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,21 +167,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/webDrivers/Setup.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupChrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java" />
-        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java" />
-        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java" />
         <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupDrivers.java" />
         <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupAllDrivers.java" />
         <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupAllDriversMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetUpAllDrivers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/EbaySetup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/TakeScreenShot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupChrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/TakeScreenshot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java" />
       </list>
     </option>
   </component>
@@ -96,6 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,20 +274,27 @@
               <item name="SeleniumReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ScreenShot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/Drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -187,8 +315,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SetUpAllDrivers (3)">
-    <configuration name="SetUpAllDrivers (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DesignSetupChrome.ebayBook">
+    <configuration name="EbaySetup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webDrivers.EbaySetup" />
+      <module name="SeleniumReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webDrivers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupSafari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webDrivers.SetupSafari" />
+      <module name="SeleniumReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webDrivers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignSetupChrome.ebayBook" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <extension name="coverage">
         <pattern>
@@ -197,15 +351,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webDrivers" />
-      <option name="MAIN_CLASS_NAME" value="webDrivers.SetUpAllDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="webDrivers.DesignSetupChrome" />
+      <option name="METHOD_NAME" value="ebayBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetUpAllDrivers (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EbaySetup.ebaylogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <extension name="coverage">
         <pattern>
@@ -214,15 +369,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webDrivers" />
-      <option name="MAIN_CLASS_NAME" value="webDrivers.SetUpAllDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="webDrivers.EbaySetup" />
+      <option name="METHOD_NAME" value="ebaylogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetUpAllDrivers (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SetupFireFox.Amazon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <extension name="coverage">
         <pattern>
@@ -231,42 +387,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="webDrivers" />
-      <option name="MAIN_CLASS_NAME" value="webDrivers.SetUpAllDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetUpAllDrivers" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webDrivers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webDrivers" />
-      <option name="MAIN_CLASS_NAME" value="webDrivers.SetUpAllDrivers" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetUpAllDrivers.DriversTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webDrivers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webDrivers" />
-      <option name="MAIN_CLASS_NAME" value="webDrivers.SetUpAllDrivers" />
-      <option name="METHOD_NAME" value="DriversTest" />
+      <option name="MAIN_CLASS_NAME" value="webDrivers.SetupFireFox" />
+      <option name="METHOD_NAME" value="Amazon" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -276,11 +398,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SetUpAllDrivers (3)" />
-        <item itemvalue="TestNG.SetUpAllDrivers (2)" />
-        <item itemvalue="TestNG.SetUpAllDrivers.DriversTest" />
-        <item itemvalue="TestNG.SetUpAllDrivers (1)" />
-        <item itemvalue="TestNG.SetUpAllDrivers" />
+        <item itemvalue="TestNG.DesignSetupChrome.ebayBook" />
+        <item itemvalue="Application.SetupSafari" />
+        <item itemvalue="TestNG.SetupFireFox.Amazon" />
+        <item itemvalue="TestNG.EbaySetup.ebaylogin" />
+        <item itemvalue="Application.EbaySetup" />
       </list>
     </recent_temporary>
   </component>
@@ -298,41 +420,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SetupSafari_SafariTest - 2019.05.05 at 21h 40m 57s.xml">
-      <configuration name="SetupSafari.SafariTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 16h 09m 05s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetupSafari_SafariTest - 2019.05.05 at 21h 42m 02s.xml">
-      <configuration name="SetupSafari.SafariTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 07m 30s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetupSafari_SafariTest - 2019.05.05 at 21h 43m 12s.xml">
-      <configuration name="SetupSafari.SafariTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 08m 47s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers - 2019.05.05 at 23h 03m 43s.xml">
-      <configuration name="SetUpAllDrivers" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 09m 31s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_DriversTest - 2019.05.05 at 23h 04m 28s.xml">
-      <configuration name="SetUpAllDrivers.DriversTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 10m 45s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_(1) - 2019.05.05 at 23h 05m 05s.xml">
-      <configuration name="SetUpAllDrivers (1)" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 11m 45s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_DriversTest - 2019.05.05 at 23h 05m 21s.xml">
-      <configuration name="SetUpAllDrivers.DriversTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 12m 32s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_DriversTest - 2019.05.05 at 23h 05m 41s.xml">
-      <configuration name="SetUpAllDrivers.DriversTest" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 13m 30s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_(2) - 2019.05.05 at 23h 10m 38s.xml">
-      <configuration name="SetUpAllDrivers (2)" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 16m 30s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SetUpAllDrivers_(3) - 2019.05.05 at 23h 20m 14s.xml">
-      <configuration name="SetUpAllDrivers (3)" configurationId="TestNG" />
+    <history-entry file="DesignSetupChrome_ebayBook - 2019.05.07 at 17h 39m 45s.xml">
+      <configuration name="DesignSetupChrome.ebayBook" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21405493" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798061" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +464,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49353796" weight="0.20952381" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49353796" visible="true" weight="0.20952381" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,7 +483,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19789983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23990306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,13 +492,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49353796" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49353796" visible="true" weight="0.20952381" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49434572" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -389,32 +512,26 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/EbaySetup.java" />
+    <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-16:09PM.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:07PM.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java">
+    <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:11PM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:12PM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShot/05.07.2019-17:16PM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetUpAllDrivers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="458">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -423,8 +540,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/TakeScreenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupFireFox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="19" column="97" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetupSafari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="111" selection-start-line="12" selection-start-column="111" selection-end-line="12" selection-end-column="111" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -441,31 +595,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/SetUpAllDrivers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/webDrivers/DesignSetupChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="350">
+          <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1694#1695#0" expanded="true" />
-            <element signature="e#1727#1728#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SeleniumReview</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8.0_202</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

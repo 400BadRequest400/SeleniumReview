@@ -16,8 +16,8 @@ public class SetupFireFox {
     public static WebDriver SetupFireFox(String Platform, String URL, String Name) {
 
 
-        if (Platform.equalsIgnoreCase("mac") && (Name.equalsIgnoreCase("Gecko"))) {
-            System.setProperty("webdriver.gecko.driver", "src/main/resources/Drivers/geckodriver 2");
+        if (Platform.equalsIgnoreCase("mac") && (Name.equalsIgnoreCase("firefox"))) {
+            System.setProperty("webdriver.gecko.driver", "src/main/resources/Drivers/chromedriver");
         } else if (Platform.equalsIgnoreCase("windows") && (Name.equalsIgnoreCase("Gecko"))) {
             System.setProperty("webdriver.gecko.driver", "src/main/resources/Drivers/geckodriver.exe");
         }
@@ -35,7 +35,7 @@ public class SetupFireFox {
     @Test
     public void Amazon() {
 
-        SetupFireFox("mac","https://amazon.com","gecko");
+        SetupFireFox("mac","https://amazon.com","chrome");
         driver1.get("https://amazon.com");
 
         driver1.findElement(By.xpath("//*[@id=\"twotabsearchtextbox\"]")).sendKeys("jewelry");
@@ -47,10 +47,10 @@ public class SetupFireFox {
         driver1.navigate().to("https://www.google.com");
         driver1.findElement(By.xpath("/html/body/div/div[3]/form/div[2]/div/div[1]/div/div[1]/input")).sendKeys("Best Goal of Lionel Messi");
         driver1.findElement(By.xpath("/html/body/div/div[3]/form/div[2]/div/div[3]/center/input[1]")).click();
-        driver1.findElement(By.xpath("/html/body/div[6]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div[1]/div/g-section-with-header/div[2]/div/g-scrolling-carousel/div/div/div/div[1]/g-inner-card/a/div[2]/div")).click();
 
         driver1.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver1.manage().timeouts().pageLoadTimeout(10,TimeUnit.SECONDS);
+
     }
 
    /* @AfterTest

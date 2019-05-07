@@ -1,3 +1,7 @@
 webDrivers/SetupFireFox.class
+webDrivers/TakeScreenshot.class
+webDrivers/SetupSafari.class
 webDrivers/SetupChrome.class
 webDrivers/DesignSetupChrome.class
+webDrivers/SetUpAllDrivers.class
+webDrivers/SetupAllDriversMain.class
